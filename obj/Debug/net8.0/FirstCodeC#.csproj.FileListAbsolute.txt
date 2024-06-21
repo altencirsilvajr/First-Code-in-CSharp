@@ -1,0 +1,14 @@
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/bin/Debug/net8.0/FirstCodeC#
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/bin/Debug/net8.0/FirstCodeC#.deps.json
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/bin/Debug/net8.0/FirstCodeC#.runtimeconfig.json
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/bin/Debug/net8.0/FirstCodeC#.dll
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/bin/Debug/net8.0/FirstCodeC#.pdb
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.AssemblyInfoInputs.cache
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.AssemblyInfo.cs
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.csproj.CoreCompileInputs.cache
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.dll
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/refint/FirstCodeC#.dll
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.pdb
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.genruntimeconfig.cache
+/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/ref/FirstCodeC#.dll
