@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/all/MyProjects/EstartandoDevs/FirstCodeC#/FirstCodeC#.csproj",
+      "projectUniqueName": "/home/all/MeusProjetos/EstartandoDevs/FirstCodeC#/FirstCodeC#.csproj",
       "projectName": "FirstCodeC#",
-      "projectPath": "/home/all/MyProjects/EstartandoDevs/FirstCodeC#/FirstCodeC#.csproj",
+      "projectPath": "/home/all/MeusProjetos/EstartandoDevs/FirstCodeC#/FirstCodeC#.csproj",
       "packagesPath": "/home/all/.nuget/packages/",
-      "outputPath": "/home/all/MyProjects/EstartandoDevs/FirstCodeC#/obj/",
+      "outputPath": "/home/all/MeusProjetos/EstartandoDevs/FirstCodeC#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/all/.nuget/NuGet/NuGet.Config"
