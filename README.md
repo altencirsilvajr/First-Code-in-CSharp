@@ -7,6 +7,9 @@ Seja bem vindo ao meu início.
 ## 🔥 Introdução
 
 Este é meu primeiro esboço, minha primeira camada... Meu HELLO WORLD!!
+Agora tenho novidades: Estou fazendo um intensivo aprimoramento de minhas habilidades em C#.
+
+Fiz cerca de 13 exercícios utilizando C#:
 
 ### ⚙️ Pré-requisitos
 
