@@ -27,3 +27,11 @@
 /home/all/MeusProjetos/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.pdb
 /home/all/MeusProjetos/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.genruntimeconfig.cache
 /home/all/MeusProjetos/EstartandoDevs/FirstCodeC#/obj/Debug/net8.0/ref/FirstCodeC#.dll
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.AssemblyInfoInputs.cache
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.AssemblyInfo.cs
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.csproj.CoreCompileInputs.cache
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.sourcelink.json
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.dll
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/refint/FirstCodeC#.dll
+/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/Debug/net8.0/FirstCodeC#.pdb

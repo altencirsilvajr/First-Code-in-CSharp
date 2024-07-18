@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/all/MeusProjetos/EstartandoDevs/Conteúdo/Aulas/FirstCodeC#/FirstCodeC#.csproj": {}
+    "/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/FirstCodeC#.csproj": {}
   },
   "projects": {
-    "/home/all/MeusProjetos/EstartandoDevs/Conteúdo/Aulas/FirstCodeC#/FirstCodeC#.csproj": {
+    "/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/FirstCodeC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/all/MeusProjetos/EstartandoDevs/Conteúdo/Aulas/FirstCodeC#/FirstCodeC#.csproj",
+        "projectUniqueName": "/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/FirstCodeC#.csproj",
         "projectName": "FirstCodeC#",
-        "projectPath": "/home/all/MeusProjetos/EstartandoDevs/Conteúdo/Aulas/FirstCodeC#/FirstCodeC#.csproj",
+        "projectPath": "/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/FirstCodeC#.csproj",
         "packagesPath": "/home/all/.nuget/packages/",
-        "outputPath": "/home/all/MeusProjetos/EstartandoDevs/Conteúdo/Aulas/FirstCodeC#/obj/",
+        "outputPath": "/home/all/MeusProjetos/EstartandoDevs/Aulas/FirstCodeC#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/all/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
